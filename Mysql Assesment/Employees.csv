@@ -1,0 +1,5 @@
+Employee_id,name,position,salary,hire_date
+1,"John Doe","Software Engineer",80000.00,2022-01-15
+2,"Jane Smith","Project Manager",90000.00,2021-05-22
+3,"Alice Johnson","UX Designer",75000.00,2023-03-01
+4,"New Employee","Data Analyst",60000.00,2023-04-01
